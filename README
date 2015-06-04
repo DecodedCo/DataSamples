@@ -1,14 +1,24 @@
+Some examples of using d3, python etc...
+
 ## CSV -> bubble chart code snippets
+
+* Loads CSV and draws a bubble chart of it
 * Required:
 	* CitySingles.csv
 	* bubblechart.js
 	* csv.html
-## Example Scrapers
 
+
+## Creating a bubble chart from json file
+* Bubble chart from json
+    * bubblechartjson directory
+        * css decides colours of circles
+
+## Example Scrapers
+* Some python web scrapers
 * Get links out of page:
 	* Scraper1.py
 * Get likes of facebook api
 	* Scraper2.py
-* Bubble chart from json
-    * bubblechartjson directory
-        * css decides colours of circles
+
+*Make Link from tweet is a js function to find a link in text (in a tweet for instance) and turn it into a usable link
