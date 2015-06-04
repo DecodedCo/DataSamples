@@ -9,3 +9,6 @@
 	* Scraper1.py
 * Get likes of facebook api
 	* Scraper2.py
+* Bubble chart from json
+    * bubblechartjson directory
+        * css decides colours of circles
