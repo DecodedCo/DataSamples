@@ -1,0 +1,11 @@
+## CSV -> bubble chart code snippets
+* Required:
+	* CitySingles.csv
+	* bubblechart.js
+	* csv.html
+## Example Scrapers
+
+* Get links out of page:
+	* Scraper1.py
+* Get likes of facebook api
+	* Scraper2.py
