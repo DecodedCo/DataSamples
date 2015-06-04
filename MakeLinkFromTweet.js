@@ -5,7 +5,7 @@ function makeLink(text) {
   console.log(text.match(regex))
 	if (text.match(regex) )
  {
-   text = text.replace(text.match(regex), "<a href='"+text.match(regex)+"'></a>")
+   text = text.replace(text.match(regex), "<a href='"+text.match(regex)+"'>"+text.match(regex)+"</a>")
  } else {
    console.log("No match");
  }
